@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGD6ZOK5PE6A44iOu66SSY6UJvlLyN+ShZ7t06xLDfn2c4xqQu4L2tdqSvJ+LixV4VnHAEK1iB8nkzx943fQQg==",
+  "success": true,
+  "projectFilePath": "C:\\DevBuild4\\GrandCircus\\DataStructures\\DataStructures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
